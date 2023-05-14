@@ -1,4 +1,3 @@
-# CVTools --created by Maswdle
 
 操作CCW(共创世界)云变量的工具
 
